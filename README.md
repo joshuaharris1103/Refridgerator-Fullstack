@@ -6,10 +6,12 @@ The Refrigerator App will let a user be able to track expiration and what items 
 - A user will be able to, create an account. 
 - A user will be able to, sign in.
 - A user will be able to, sign out.
-- A user will be able to,
-- A user will be able to,
-- A user will be able to,
-- A user will be able to,
+- A user will be able to, log food/drink item.
+- A user will be able to, delete foods/drinks that have been used up or expired.
+- A user will be able to, log when item was first added to the fridge.
+- A user will be able to, add photos of items for visual reference.
+- A user will be able to, see the time left of items in the fridge.
+
 
 ## Technologies Used:
 Javascript
