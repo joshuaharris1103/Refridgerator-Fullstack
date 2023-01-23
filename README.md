@@ -14,6 +14,8 @@ The Refrigerator App will let a user be able to track expiration and what items 
 
 ## Wireframes / Application Shots
 ![image](https://user-images.githubusercontent.com/106713788/214065447-16acf7b0-2e02-4381-810c-87f88dcaa935.png)
+![image](https://user-images.githubusercontent.com/106713788/214067874-fadb70f6-a0cf-4538-b5bd-643711c69b1d.png)
+
 
 ## Entity Relationship Diagrams
 
