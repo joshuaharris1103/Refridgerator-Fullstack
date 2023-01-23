@@ -18,9 +18,9 @@ The Refrigerator App will let a user be able to track expiration and what items 
 ## Entity Relationship Diagrams
 
 ## Technologies Used:
-Javascript
-Mongoose
-MongoDB
-Express
-NodeJS
-Liquid
+- Javascript
+-  Mongoose
+- MongoDB
+- Express
+- NodeJS
+- Liquid
