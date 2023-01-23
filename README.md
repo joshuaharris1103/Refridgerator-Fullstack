@@ -12,6 +12,10 @@ The Refrigerator App will let a user be able to track expiration and what items 
 - A user will be able to, add photos of items for visual reference.
 - A user will be able to, see the time left of items in the fridge.
 
+## Wireframes / Application Shots
+![image](https://user-images.githubusercontent.com/106713788/214065447-16acf7b0-2e02-4381-810c-87f88dcaa935.png)
+
+## Entity Relationship Diagrams
 
 ## Technologies Used:
 Javascript
