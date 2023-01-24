@@ -26,7 +26,7 @@ The Refrigerator App will let a user be able to track expiration and what items 
 
 ## Technologies Used:
 - Javascript
--  Mongoose
+- Mongoose
 - MongoDB
 - Express
 - NodeJS
